@@ -2,7 +2,7 @@
 closed in the correct order.
 
 Input-1: 1+2*(3/4)
-Output-1: 1+2*(3/4)
+Output-1: This expression is correct.
 
 Input-2: 1+2*[3*3+{4–5(6(7/8/9)+10)–11+(12*8)]+14
 Output-2: This expression is NOT correct.
